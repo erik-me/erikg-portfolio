@@ -1,0 +1,2668 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "erikg.me",
+    "displayName": "Erik Gonzalez",
+    "profession": "Product Designer",
+    "location": "U.S.",
+    "pronouns": "He/Him",
+    "byline": "Product Designer in U.S., He/Him",
+    "website": "https://www.erikg.me",
+    "websiteURL": "https://www.erikg.me",
+    "about": "Hello! I’m a senior user experience designer. I’m curious to understand people and I’m driven to create great products for them. I am especially excited to work on products that allow people to live longer, healthier and happier lives.",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": [
+      "Exhibitions",
+      "Speaking",
+      "Writing",
+      "Awards",
+      "Features",
+      "Work Experience",
+      "Volunteering",
+      "Education",
+      "Certifications",
+      "Contact",
+      "Teams",
+      "Projects",
+      "Side Projects"
+    ]
+  },
+  "projects": [
+    {
+      "id": "bShTHOUH8mGWb46cTBka",
+      "year": "2024",
+      "heading": "Primary Care Physician Search at Memorial Sloan Kettering Cancer Center",
+      "url": null,
+      "collaborators": [],
+      "description": "As the senior product designer, I led discovery and branding alignment for an external provider directory using NPI data. I also created custom illustrations and collaborated with content and study teams, supporting the launch of a new AIM for the EfFORT project.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1280,
+          "height": 960,
+          "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-1.png"
+        },
+        {
+          "type": "image",
+          "width": 1281,
+          "height": 788,
+          "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-2.png"
+        },
+        {
+          "type": "image",
+          "width": 1280,
+          "height": 875,
+          "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-3.png"
+        },
+        {
+          "type": "image",
+          "width": 1280,
+          "height": 875,
+          "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-4.png"
+        },
+        {
+          "type": "image",
+          "width": 1280,
+          "height": 788,
+          "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-5.png"
+        },
+        {
+          "type": "image",
+          "width": 1280,
+          "height": 788,
+          "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-6.png"
+        },
+        {
+          "type": "image",
+          "width": 628,
+          "height": 793,
+          "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-7.png"
+        },
+        {
+          "type": "image",
+          "width": 1280,
+          "height": 788,
+          "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-8.png"
+        },
+        {
+          "type": "image",
+          "width": 1280,
+          "height": 875,
+          "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-9.png"
+        },
+        {
+          "type": "image",
+          "width": 1280,
+          "height": 880,
+          "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-10.png"
+        },
+        {
+          "type": "image",
+          "width": 628,
+          "height": 793,
+          "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-11.png"
+        },
+        {
+          "type": "image",
+          "width": 1280,
+          "height": 788,
+          "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-12.png"
+        },
+        {
+          "type": "image",
+          "width": 1280,
+          "height": 788,
+          "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-13.png"
+        },
+        {
+          "type": "image",
+          "width": 1280,
+          "height": 788,
+          "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-14.png"
+        }
+      ],
+      "type": "project",
+      "title": "Primary Care Physician Search",
+      "company": "Memorial Sloan Kettering Cancer Center"
+    },
+    {
+      "id": "ftfJm7ASnUFgt4WCuB38",
+      "year": "2023",
+      "heading": "Improving Telemedicine Device Readiness at Memorial Sloan Kettering Cancer Center",
+      "url": null,
+      "collaborators": [],
+      "description": "Led the enhancement of the telemedicine experience by streamlining the mobile login process and improving support for testing devices. This increased patient preparedness, clinic efficiency, and reduced the burden on Help Desk staff.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1755,
+          "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-3.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-4.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1610,
+          "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-5.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-6.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-7.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-8.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-9.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-10.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-11.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-12.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 640,
+          "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-13.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-14.jpg"
+        }
+      ],
+      "type": "project",
+      "title": "Improving Telemedicine Device Readiness",
+      "company": "Memorial Sloan Kettering Cancer Center"
+    },
+    {
+      "id": "7OC3foXjJolYaPcAhxDE",
+      "year": "2023",
+      "heading": "Digital Genetic Platform at Memorial Sloan Kettering",
+      "url": null,
+      "collaborators": [],
+      "description": "Co-led the design of MyGene Portal, a tool for the EfFORT Study that facilitates provider-mediated genetic testing outreach. This project, funded by the National Human Genome Research Institute, improves genetic testing accessibility and reduces the burden on patients.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 3000,
+          "url": "/content/media/Digital-Genetic-Platform-at-Memorial-Sloan-Kettering-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 1333,
+          "url": "/content/media/Digital-Genetic-Platform-at-Memorial-Sloan-Kettering-2.png"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 1333,
+          "url": "/content/media/Digital-Genetic-Platform-at-Memorial-Sloan-Kettering-3.png"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 1333,
+          "url": "/content/media/Digital-Genetic-Platform-at-Memorial-Sloan-Kettering-4.jpg"
+        }
+      ],
+      "type": "project",
+      "title": "Digital Genetic Platform",
+      "company": "Memorial Sloan Kettering"
+    },
+    {
+      "id": "91lDoWj3mIQLV40BISuv",
+      "year": "2021",
+      "heading": "Physicians Practice Web Design at Physicians Practice Enhancement, LLC",
+      "url": "https://read.cv/erikg.me/physicians-practice-web-design",
+      "collaborators": [],
+      "description": "Led a comprehensive website redesign, delivering a user-friendly site with a scalable design system. Tailored the site to key audiences, reinforcing the company’s mission of offering flexible healthcare solutions.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-1.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 1440,
+          "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-2.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 1440,
+          "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-3.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1755,
+          "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-4.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-5.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-6.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 1440,
+          "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-7.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-8.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 642,
+          "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-9.png"
+        },
+        {
+          "type": "image",
+          "width": 2344,
+          "height": 1609,
+          "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-10.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-11.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 1440,
+          "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-12.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-13.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-14.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-15.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 2826,
+          "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-16.png"
+        }
+      ],
+      "type": "project",
+      "title": "Physicians Practice Web Design",
+      "company": "Physicians Practice Enhancement, LLC"
+    },
+    {
+      "id": "dEoseqmgHzFpS0P9Fvlt",
+      "year": "2021",
+      "heading": "Medical Supply Company at EdgePark",
+      "url": null,
+      "collaborators": [],
+      "description": "Guided a 90-year-old medical supply company’s evolution to remain relevant and position for future growth.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1755,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-2.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-3.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 1440,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-4.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 1440,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-5.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-6.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-7.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-8.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1441,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-9.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-10.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-11.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-12.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 1440,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-13.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 2286,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-14.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 640,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-15.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 2460,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-16.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-17.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-18.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-19.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 1440,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-20.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-21.png"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 3024,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-22.jpg"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 3024,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-23.jpg"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 3024,
+          "url": "/content/media/Medical-Supply-Company-at-EdgePark-24.jpg"
+        }
+      ],
+      "type": "project",
+      "title": "Medical Supply Company",
+      "company": "EdgePark"
+    },
+    {
+      "id": "HWjSVOBKiHLfwy1dF9tI",
+      "year": "2021",
+      "heading": "Optimizing Inventory Management for Medical Device Manufacturers at WaveMark",
+      "url": null,
+      "collaborators": [],
+      "description": "As a senior product designer I helped design a product offering that empowers MDMs to better manage inventory and improve customer service, addressing critical industry needs.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 640,
+          "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1755,
+          "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-2.png"
+        },
+        {
+          "type": "image",
+          "width": 1600,
+          "height": 2077,
+          "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-3.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-4.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-5.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 1440,
+          "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-6.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 1440,
+          "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-7.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-8.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-9.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-10.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-11.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-12.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-13.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-14.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 1440,
+          "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-15.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 1440,
+          "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-16.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-17.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-18.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-19.png"
+        }
+      ],
+      "type": "project",
+      "title": "Optimizing Inventory Management for Medical Device Manufacturers",
+      "company": "WaveMark"
+    },
+    {
+      "id": "FrlhPisCRpsEIqgahDX2",
+      "year": "2020",
+      "heading": "Contractor Financing App at Rocket Mortgage",
+      "url": null,
+      "collaborators": [],
+      "description": "As an in-house designer at Rocket Loans, I designed a responsive app platform that streamlined the financing process for contractors and homeowners.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1755,
+          "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-2.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-3.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 1440,
+          "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-4.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-5.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-6.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 1440,
+          "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-7.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-8.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1441,
+          "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-9.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-10.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-11.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 1440,
+          "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-12.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-13.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-14.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-15.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 1440,
+          "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-16.png"
+        },
+        {
+          "type": "image",
+          "width": 4996,
+          "height": 3331,
+          "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-17.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 969,
+          "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-18.png"
+        },
+        {
+          "type": "image",
+          "width": 870,
+          "height": 750,
+          "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-19.jpg"
+        },
+        {
+          "type": "image",
+          "width": 700,
+          "height": 700,
+          "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-20.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2776,
+          "height": 2082,
+          "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-21.jpg"
+        }
+      ],
+      "type": "project",
+      "title": "Contractor Financing App",
+      "company": "Rocket Mortgage"
+    }
+  ],
+  "sideProjects": [
+    {
+      "id": "MExu1LMl31LDwQ8ZPm0r",
+      "year": "2024",
+      "heading": "Law firm Directory at caraccidentattorney.com",
+      "url": null,
+      "collaborators": [],
+      "description": "Designed a modern, premium website for a lawyer directory. Created wireframes for eight pages, high-fidelity mockups in Figma, and a design system for a consistent, responsive experience that conveys authority.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 940,
+          "height": 1360,
+          "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-2.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1755,
+          "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-3.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-4.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-5.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-6.png"
+        },
+        {
+          "type": "image",
+          "width": 940,
+          "height": 1360,
+          "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-7.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-8.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 640,
+          "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-9.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-10.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1441,
+          "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-11.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-12.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-13.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-14.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1441,
+          "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-15.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 1440,
+          "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-16.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 1440,
+          "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-17.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Law firm Directory",
+      "company": "caraccidentattorney.com"
+    },
+    {
+      "id": "80tIp3vFRNep9yGLe1Aa",
+      "year": "2023",
+      "heading": "Amazon Infographics at Bargoose",
+      "url": null,
+      "collaborators": [],
+      "description": "Designed Amazon infographics to boost product visibility and conversions. Created custom icon illustrations and managed a team of 3D artists to produce engaging visuals.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1755,
+          "url": "/content/media/Amazon-Infographics-at-Bargoose-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Amazon-Infographics-at-Bargoose-2.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Amazon-Infographics-at-Bargoose-3.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Amazon-Infographics-at-Bargoose-4.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 1140,
+          "url": "/content/media/Amazon-Infographics-at-Bargoose-5.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 1140,
+          "url": "/content/media/Amazon-Infographics-at-Bargoose-6.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Amazon-Infographics-at-Bargoose-7.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Amazon Infographics",
+      "company": "Bargoose"
+    },
+    {
+      "id": "bsevWZqcR9kt3phugF8d",
+      "year": "2022",
+      "heading": "Sarita Salsa Brand Logo Design at Sarita Salsa",
+      "url": null,
+      "collaborators": [],
+      "description": "Developed a vibrant logo capturing the essence of Sarita Salsa's bold flavors, effectively communicating energy and culture in a competitive market.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 1440,
+          "url": "/content/media/Sarita-Salsa-Brand-Logo-Design-at-Sarita-Salsa-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Sarita-Salsa-Brand-Logo-Design-at-Sarita-Salsa-2.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1210,
+          "url": "/content/media/Sarita-Salsa-Brand-Logo-Design-at-Sarita-Salsa-3.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1755,
+          "url": "/content/media/Sarita-Salsa-Brand-Logo-Design-at-Sarita-Salsa-4.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 1440,
+          "url": "/content/media/Sarita-Salsa-Brand-Logo-Design-at-Sarita-Salsa-5.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1441,
+          "url": "/content/media/Sarita-Salsa-Brand-Logo-Design-at-Sarita-Salsa-6.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Sarita Salsa Brand Logo Design",
+      "company": "Sarita Salsa"
+    },
+    {
+      "id": "WPlpXN03piXPvpGSI6MU",
+      "year": "2022",
+      "heading": "Australian homeownership fintech at sucasa",
+      "url": null,
+      "collaborators": [],
+      "description": "Implemented Sucasa's new brand across marketing assets, including a PowerPoint template, updated pitch decks, and HTML email templates.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2342,
+          "height": 1443,
+          "url": "/content/media/Australian-homeownership-fintech-at-sucasa-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1755,
+          "url": "/content/media/Australian-homeownership-fintech-at-sucasa-2.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Australian-homeownership-fintech-at-sucasa-3.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Australian-homeownership-fintech-at-sucasa-4.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 4136,
+          "url": "/content/media/Australian-homeownership-fintech-at-sucasa-5.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1450,
+          "url": "/content/media/Australian-homeownership-fintech-at-sucasa-6.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Australian-homeownership-fintech-at-sucasa-7.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Australian-homeownership-fintech-at-sucasa-8.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1440,
+          "url": "/content/media/Australian-homeownership-fintech-at-sucasa-9.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Australian-homeownership-fintech-at-sucasa-10.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 4830,
+          "url": "/content/media/Australian-homeownership-fintech-at-sucasa-11.png"
+        },
+        {
+          "type": "image",
+          "width": 2340,
+          "height": 1600,
+          "url": "/content/media/Australian-homeownership-fintech-at-sucasa-12.png"
+        },
+        {
+          "type": "image",
+          "width": 1140,
+          "height": 640,
+          "url": "/content/media/Australian-homeownership-fintech-at-sucasa-13.png"
+        },
+        {
+          "type": "image",
+          "width": 940,
+          "height": 1360,
+          "url": "/content/media/Australian-homeownership-fintech-at-sucasa-14.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Australian homeownership fintech",
+      "company": "sucasa"
+    }
+  ],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [],
+  "awards": [],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "Ua8RhNCBLrNa44GmjWWe",
+      "year": "2022 — Now",
+      "heading": "Senior Product Designer at Memorial Sloan Kettering Cancer Center",
+      "url": "https://www.mskcc.org/",
+      "collaborators": [],
+      "description": "Collaborate cross-functionally to address patient needs in remote settings, such as telemedicine, hospital at home, creating simple, impactful experiences within the Health Consumer Platform.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Senior Product Designer",
+      "company": "Memorial Sloan Kettering Cancer Center",
+      "location": "New York, New York"
+    },
+    {
+      "id": "lNQugT9G2EziKJCg23JP",
+      "year": "2020 — 2022",
+      "heading": "Product Designer / Design Strategist at Cardinal Health",
+      "url": "https://www.cardinalhealth.com",
+      "collaborators": [],
+      "description": "Work as a member of a sidecar team specializing in breakthrough innovation for complex and highly regulated products, including reducing waste of expired medical devices, loss of specimen samples in independent lab testing facilities.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Product Designer / Design Strategist",
+      "company": "Cardinal Health",
+      "location": "Dublin, OH"
+    },
+    {
+      "id": "Xxb5zRcW0bYztorb8ot1",
+      "year": "2019 — 2020",
+      "heading": "UX Designer at Rocket Loans",
+      "url": "https://www.rocketmortgage.com",
+      "collaborators": [],
+      "description": "Developed design strategies, wireframed key interactions, and created prototypes while adhering to design library guidelines.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "UX Designer",
+      "company": "Rocket Loans",
+      "location": "Detroit, MI"
+    },
+    {
+      "id": "eV8vFFjJictXhdQG2D0a",
+      "year": "2017 — 2019",
+      "heading": "Marketing Director / 3D Manager at MR Direct International",
+      "url": "https://www.mrdirectint.com",
+      "collaborators": [],
+      "description": "Owning the operational strategy and outlook for the Creative team serving a core business line.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Marketing Director / 3D Manager",
+      "company": "MR Direct International",
+      "location": "Toledo, OH"
+    },
+    {
+      "id": "MOImTmnjt3IRFYuXyv9E",
+      "year": "2019 — 2019",
+      "heading": "UX UI Lead / 3D Manager at MR Direct International",
+      "url": "https://www.mrdirectint.com",
+      "collaborators": [],
+      "description": "Created user-friendly designs, managed UX projects, streamlined processes, and balanced business, technical, and customer needs.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "UX UI Lead / 3D Manager",
+      "company": "MR Direct International",
+      "location": "Toledo, OH"
+    },
+    {
+      "id": "qc48vMdOf17HbRY7sply",
+      "year": "2015 — 2017",
+      "heading": "Creative Director at MR Direct International",
+      "url": "https://www.mrdirectint.com",
+      "collaborators": [],
+      "description": "Guided a multidisciplinary design team and evolved the working model to support business growth.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Creative Director",
+      "company": "MR Direct International",
+      "location": "Toledo, OH"
+    }
+  ],
+  "volunteering": [],
+  "education": [
+    {
+      "id": "x2mBqF8tp4wAVw9lt5rO",
+      "year": "2023 — Now",
+      "heading": "Bachelor's Degree, Health Innovation & Entrepreneurship at Arizona State University",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "education",
+      "degree": "Bachelor's Degree, Health Innovation & Entrepreneurship",
+      "school": "Arizona State University",
+      "location": null
+    },
+    {
+      "id": "POnHHPRIvzFZwYVcD9u4",
+      "year": "2010 — 2012",
+      "heading": "Digital Media Arts at Olympic College",
+      "url": "https://www.olympic.edu/",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "education",
+      "degree": "Digital Media Arts",
+      "school": "Olympic College",
+      "location": "Bremerton, WA"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "64A26pLeWI2vWi2r3h4c",
+      "year": "2022",
+      "heading": "Facilitating UX Workshops from Nielsen Norman Group",
+      "url": "https://www.nngroup.com/",
+      "collaborators": [],
+      "description": "1067038",
+      "attachments": [],
+      "type": "certification",
+      "name": "Facilitating UX Workshops",
+      "organization": "Nielsen Norman Group"
+    },
+    {
+      "id": "yR3drJE4UQwZnWPpAywO",
+      "year": "2021",
+      "heading": "Essentials of Service Design from Ideas With Moxie",
+      "url": "https://ideaswithmoxie.com/learn/essentials-of-service-design",
+      "collaborators": [],
+      "description": "Connect customer experiences to internal processes, define new possibilities and test new concepts",
+      "attachments": [],
+      "type": "certification",
+      "name": "Essentials of Service Design",
+      "organization": "Ideas With Moxie"
+    },
+    {
+      "id": "8GOn0uAwQRSXvYfQ54XA",
+      "year": "2020",
+      "heading": "Understanding Customer Insights from Association of National Advertisers",
+      "url": "https://www.ana.net/ondemand/show/id/OD-UNDCSI",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "certification",
+      "name": "Understanding Customer Insights",
+      "organization": "Association of National Advertisers"
+    },
+    {
+      "id": "EtRPU9We6Zi3fw7Ty6aj",
+      "year": "2020",
+      "heading": "Strategic Customer-Centric Marketing from Association of National Advertisers",
+      "url": "https://www.ana.net/training/course/id/CD-SCCM-VTOE-NC",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "certification",
+      "name": "Strategic Customer-Centric Marketing",
+      "organization": "Association of National Advertisers"
+    },
+    {
+      "id": "CJ33ofcLiyMh1bFwuyxJ",
+      "year": "2020",
+      "heading": "Art and Science of Brand Building from Association of National Advertisers",
+      "url": "https://www.ana.net/ondemand/show/id/OD-ASB04",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "certification",
+      "name": "Art and Science of Brand Building",
+      "organization": "Association of National Advertisers"
+    },
+    {
+      "id": "KZ4rd8mlyA92PRbcDWbG",
+      "year": "2019",
+      "heading": "Essential Leadership Program from Lake Forest Graduate School of Management",
+      "url": "https://lfgsm.edu/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 2268,
+          "url": "/content/media/Essential-Leadership-Program-from-Lake-Forest-Graduate-School-of-Management-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 2268,
+          "url": "/content/media/Essential-Leadership-Program-from-Lake-Forest-Graduate-School-of-Management-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 2268,
+          "url": "/content/media/Essential-Leadership-Program-from-Lake-Forest-Graduate-School-of-Management-3.jpg"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 2268,
+          "url": "/content/media/Essential-Leadership-Program-from-Lake-Forest-Graduate-School-of-Management-4.jpg"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 2268,
+          "url": "/content/media/Essential-Leadership-Program-from-Lake-Forest-Graduate-School-of-Management-5.jpg"
+        }
+      ],
+      "type": "certification",
+      "name": "Essential Leadership Program",
+      "organization": "Lake Forest Graduate School of Management"
+    }
+  ],
+  "contact": [
+    {
+      "id": "5bnY6ULgTWtO09lJtieL",
+      "platform": "Email",
+      "handle": "hello@erikg.me",
+      "url": "mailto:hello@erikg.me"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "Ua8RhNCBLrNa44GmjWWe",
+          "year": "2022 — Now",
+          "heading": "Senior Product Designer at Memorial Sloan Kettering Cancer Center",
+          "url": "https://www.mskcc.org/",
+          "collaborators": [],
+          "description": "Collaborate cross-functionally to address patient needs in remote settings, such as telemedicine, hospital at home, creating simple, impactful experiences within the Health Consumer Platform.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Senior Product Designer",
+          "company": "Memorial Sloan Kettering Cancer Center",
+          "location": "New York, New York"
+        },
+        {
+          "id": "lNQugT9G2EziKJCg23JP",
+          "year": "2020 — 2022",
+          "heading": "Product Designer / Design Strategist at Cardinal Health",
+          "url": "https://www.cardinalhealth.com",
+          "collaborators": [],
+          "description": "Work as a member of a sidecar team specializing in breakthrough innovation for complex and highly regulated products, including reducing waste of expired medical devices, loss of specimen samples in independent lab testing facilities.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Product Designer / Design Strategist",
+          "company": "Cardinal Health",
+          "location": "Dublin, OH"
+        },
+        {
+          "id": "Xxb5zRcW0bYztorb8ot1",
+          "year": "2019 — 2020",
+          "heading": "UX Designer at Rocket Loans",
+          "url": "https://www.rocketmortgage.com",
+          "collaborators": [],
+          "description": "Developed design strategies, wireframed key interactions, and created prototypes while adhering to design library guidelines.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "UX Designer",
+          "company": "Rocket Loans",
+          "location": "Detroit, MI"
+        },
+        {
+          "id": "eV8vFFjJictXhdQG2D0a",
+          "year": "2017 — 2019",
+          "heading": "Marketing Director / 3D Manager at MR Direct International",
+          "url": "https://www.mrdirectint.com",
+          "collaborators": [],
+          "description": "Owning the operational strategy and outlook for the Creative team serving a core business line.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Marketing Director / 3D Manager",
+          "company": "MR Direct International",
+          "location": "Toledo, OH"
+        },
+        {
+          "id": "MOImTmnjt3IRFYuXyv9E",
+          "year": "2019 — 2019",
+          "heading": "UX UI Lead / 3D Manager at MR Direct International",
+          "url": "https://www.mrdirectint.com",
+          "collaborators": [],
+          "description": "Created user-friendly designs, managed UX projects, streamlined processes, and balanced business, technical, and customer needs.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "UX UI Lead / 3D Manager",
+          "company": "MR Direct International",
+          "location": "Toledo, OH"
+        },
+        {
+          "id": "qc48vMdOf17HbRY7sply",
+          "year": "2015 — 2017",
+          "heading": "Creative Director at MR Direct International",
+          "url": "https://www.mrdirectint.com",
+          "collaborators": [],
+          "description": "Guided a multidisciplinary design team and evolved the working model to support business growth.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Creative Director",
+          "company": "MR Direct International",
+          "location": "Toledo, OH"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "x2mBqF8tp4wAVw9lt5rO",
+          "year": "2023 — Now",
+          "heading": "Bachelor's Degree, Health Innovation & Entrepreneurship at Arizona State University",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "education",
+          "degree": "Bachelor's Degree, Health Innovation & Entrepreneurship",
+          "school": "Arizona State University",
+          "location": null
+        },
+        {
+          "id": "POnHHPRIvzFZwYVcD9u4",
+          "year": "2010 — 2012",
+          "heading": "Digital Media Arts at Olympic College",
+          "url": "https://www.olympic.edu/",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "education",
+          "degree": "Digital Media Arts",
+          "school": "Olympic College",
+          "location": "Bremerton, WA"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "items": [
+        {
+          "id": "64A26pLeWI2vWi2r3h4c",
+          "year": "2022",
+          "heading": "Facilitating UX Workshops from Nielsen Norman Group",
+          "url": "https://www.nngroup.com/",
+          "collaborators": [],
+          "description": "1067038",
+          "attachments": [],
+          "type": "certification",
+          "name": "Facilitating UX Workshops",
+          "organization": "Nielsen Norman Group"
+        },
+        {
+          "id": "yR3drJE4UQwZnWPpAywO",
+          "year": "2021",
+          "heading": "Essentials of Service Design from Ideas With Moxie",
+          "url": "https://ideaswithmoxie.com/learn/essentials-of-service-design",
+          "collaborators": [],
+          "description": "Connect customer experiences to internal processes, define new possibilities and test new concepts",
+          "attachments": [],
+          "type": "certification",
+          "name": "Essentials of Service Design",
+          "organization": "Ideas With Moxie"
+        },
+        {
+          "id": "8GOn0uAwQRSXvYfQ54XA",
+          "year": "2020",
+          "heading": "Understanding Customer Insights from Association of National Advertisers",
+          "url": "https://www.ana.net/ondemand/show/id/OD-UNDCSI",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "certification",
+          "name": "Understanding Customer Insights",
+          "organization": "Association of National Advertisers"
+        },
+        {
+          "id": "EtRPU9We6Zi3fw7Ty6aj",
+          "year": "2020",
+          "heading": "Strategic Customer-Centric Marketing from Association of National Advertisers",
+          "url": "https://www.ana.net/training/course/id/CD-SCCM-VTOE-NC",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "certification",
+          "name": "Strategic Customer-Centric Marketing",
+          "organization": "Association of National Advertisers"
+        },
+        {
+          "id": "CJ33ofcLiyMh1bFwuyxJ",
+          "year": "2020",
+          "heading": "Art and Science of Brand Building from Association of National Advertisers",
+          "url": "https://www.ana.net/ondemand/show/id/OD-ASB04",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "certification",
+          "name": "Art and Science of Brand Building",
+          "organization": "Association of National Advertisers"
+        },
+        {
+          "id": "KZ4rd8mlyA92PRbcDWbG",
+          "year": "2019",
+          "heading": "Essential Leadership Program from Lake Forest Graduate School of Management",
+          "url": "https://lfgsm.edu/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 2268,
+              "url": "/content/media/Essential-Leadership-Program-from-Lake-Forest-Graduate-School-of-Management-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 2268,
+              "url": "/content/media/Essential-Leadership-Program-from-Lake-Forest-Graduate-School-of-Management-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 2268,
+              "url": "/content/media/Essential-Leadership-Program-from-Lake-Forest-Graduate-School-of-Management-3.jpg"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 2268,
+              "url": "/content/media/Essential-Leadership-Program-from-Lake-Forest-Graduate-School-of-Management-4.jpg"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 2268,
+              "url": "/content/media/Essential-Leadership-Program-from-Lake-Forest-Graduate-School-of-Management-5.jpg"
+            }
+          ],
+          "type": "certification",
+          "name": "Essential Leadership Program",
+          "organization": "Lake Forest Graduate School of Management"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "5bnY6ULgTWtO09lJtieL",
+          "platform": "Email",
+          "handle": "hello@erikg.me",
+          "url": "mailto:hello@erikg.me"
+        }
+      ]
+    },
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "bShTHOUH8mGWb46cTBka",
+          "year": "2024",
+          "heading": "Primary Care Physician Search at Memorial Sloan Kettering Cancer Center",
+          "url": null,
+          "collaborators": [],
+          "description": "As the senior product designer, I led discovery and branding alignment for an external provider directory using NPI data. I also created custom illustrations and collaborated with content and study teams, supporting the launch of a new AIM for the EfFORT project.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1280,
+              "height": 960,
+              "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-1.png"
+            },
+            {
+              "type": "image",
+              "width": 1281,
+              "height": 788,
+              "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-2.png"
+            },
+            {
+              "type": "image",
+              "width": 1280,
+              "height": 875,
+              "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-3.png"
+            },
+            {
+              "type": "image",
+              "width": 1280,
+              "height": 875,
+              "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-4.png"
+            },
+            {
+              "type": "image",
+              "width": 1280,
+              "height": 788,
+              "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-5.png"
+            },
+            {
+              "type": "image",
+              "width": 1280,
+              "height": 788,
+              "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-6.png"
+            },
+            {
+              "type": "image",
+              "width": 628,
+              "height": 793,
+              "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-7.png"
+            },
+            {
+              "type": "image",
+              "width": 1280,
+              "height": 788,
+              "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-8.png"
+            },
+            {
+              "type": "image",
+              "width": 1280,
+              "height": 875,
+              "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-9.png"
+            },
+            {
+              "type": "image",
+              "width": 1280,
+              "height": 880,
+              "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-10.png"
+            },
+            {
+              "type": "image",
+              "width": 628,
+              "height": 793,
+              "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-11.png"
+            },
+            {
+              "type": "image",
+              "width": 1280,
+              "height": 788,
+              "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-12.png"
+            },
+            {
+              "type": "image",
+              "width": 1280,
+              "height": 788,
+              "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-13.png"
+            },
+            {
+              "type": "image",
+              "width": 1280,
+              "height": 788,
+              "url": "/content/media/Primary-Care-Physician-Search-at-Memorial-Sloan-Kettering-Cancer-Center-14.png"
+            }
+          ],
+          "type": "project",
+          "title": "Primary Care Physician Search",
+          "company": "Memorial Sloan Kettering Cancer Center"
+        },
+        {
+          "id": "ftfJm7ASnUFgt4WCuB38",
+          "year": "2023",
+          "heading": "Improving Telemedicine Device Readiness at Memorial Sloan Kettering Cancer Center",
+          "url": null,
+          "collaborators": [],
+          "description": "Led the enhancement of the telemedicine experience by streamlining the mobile login process and improving support for testing devices. This increased patient preparedness, clinic efficiency, and reduced the burden on Help Desk staff.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1755,
+              "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-3.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-4.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1610,
+              "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-5.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-6.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-7.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-8.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-9.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-10.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-11.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-12.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 640,
+              "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-13.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Improving-Telemedicine-Device-Readiness-at-Memorial-Sloan-Kettering-Cancer-Center-14.jpg"
+            }
+          ],
+          "type": "project",
+          "title": "Improving Telemedicine Device Readiness",
+          "company": "Memorial Sloan Kettering Cancer Center"
+        },
+        {
+          "id": "7OC3foXjJolYaPcAhxDE",
+          "year": "2023",
+          "heading": "Digital Genetic Platform at Memorial Sloan Kettering",
+          "url": null,
+          "collaborators": [],
+          "description": "Co-led the design of MyGene Portal, a tool for the EfFORT Study that facilitates provider-mediated genetic testing outreach. This project, funded by the National Human Genome Research Institute, improves genetic testing accessibility and reduces the burden on patients.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 3000,
+              "url": "/content/media/Digital-Genetic-Platform-at-Memorial-Sloan-Kettering-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 1333,
+              "url": "/content/media/Digital-Genetic-Platform-at-Memorial-Sloan-Kettering-2.png"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 1333,
+              "url": "/content/media/Digital-Genetic-Platform-at-Memorial-Sloan-Kettering-3.png"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 1333,
+              "url": "/content/media/Digital-Genetic-Platform-at-Memorial-Sloan-Kettering-4.jpg"
+            }
+          ],
+          "type": "project",
+          "title": "Digital Genetic Platform",
+          "company": "Memorial Sloan Kettering"
+        },
+        {
+          "id": "91lDoWj3mIQLV40BISuv",
+          "year": "2021",
+          "heading": "Physicians Practice Web Design at Physicians Practice Enhancement, LLC",
+          "url": "https://read.cv/erikg.me/physicians-practice-web-design",
+          "collaborators": [],
+          "description": "Led a comprehensive website redesign, delivering a user-friendly site with a scalable design system. Tailored the site to key audiences, reinforcing the company’s mission of offering flexible healthcare solutions.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-1.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 1440,
+              "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-2.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 1440,
+              "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-3.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1755,
+              "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-4.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-5.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-6.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 1440,
+              "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-7.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-8.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 642,
+              "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-9.png"
+            },
+            {
+              "type": "image",
+              "width": 2344,
+              "height": 1609,
+              "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-10.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-11.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 1440,
+              "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-12.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-13.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-14.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-15.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 2826,
+              "url": "/content/media/Physicians-Practice-Web-Design-at-Physicians-Practice-Enhancement-LLC-16.png"
+            }
+          ],
+          "type": "project",
+          "title": "Physicians Practice Web Design",
+          "company": "Physicians Practice Enhancement, LLC"
+        },
+        {
+          "id": "dEoseqmgHzFpS0P9Fvlt",
+          "year": "2021",
+          "heading": "Medical Supply Company at EdgePark",
+          "url": null,
+          "collaborators": [],
+          "description": "Guided a 90-year-old medical supply company’s evolution to remain relevant and position for future growth.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1755,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-2.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-3.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 1440,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-4.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 1440,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-5.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-6.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-7.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-8.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1441,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-9.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-10.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-11.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-12.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 1440,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-13.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 2286,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-14.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 640,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-15.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 2460,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-16.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-17.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-18.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-19.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 1440,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-20.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-21.png"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 3024,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-22.jpg"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 3024,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-23.jpg"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 3024,
+              "url": "/content/media/Medical-Supply-Company-at-EdgePark-24.jpg"
+            }
+          ],
+          "type": "project",
+          "title": "Medical Supply Company",
+          "company": "EdgePark"
+        },
+        {
+          "id": "HWjSVOBKiHLfwy1dF9tI",
+          "year": "2021",
+          "heading": "Optimizing Inventory Management for Medical Device Manufacturers at WaveMark",
+          "url": null,
+          "collaborators": [],
+          "description": "As a senior product designer I helped design a product offering that empowers MDMs to better manage inventory and improve customer service, addressing critical industry needs.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 640,
+              "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1755,
+              "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-2.png"
+            },
+            {
+              "type": "image",
+              "width": 1600,
+              "height": 2077,
+              "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-3.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-4.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-5.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 1440,
+              "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-6.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 1440,
+              "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-7.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-8.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-9.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-10.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-11.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-12.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-13.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-14.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 1440,
+              "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-15.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 1440,
+              "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-16.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-17.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-18.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Optimizing-Inventory-Management-for-Medical-Device-Manufacturers-at-WaveMark-19.png"
+            }
+          ],
+          "type": "project",
+          "title": "Optimizing Inventory Management for Medical Device Manufacturers",
+          "company": "WaveMark"
+        },
+        {
+          "id": "FrlhPisCRpsEIqgahDX2",
+          "year": "2020",
+          "heading": "Contractor Financing App at Rocket Mortgage",
+          "url": null,
+          "collaborators": [],
+          "description": "As an in-house designer at Rocket Loans, I designed a responsive app platform that streamlined the financing process for contractors and homeowners.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1755,
+              "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-2.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-3.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 1440,
+              "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-4.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-5.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-6.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 1440,
+              "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-7.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-8.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1441,
+              "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-9.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-10.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-11.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 1440,
+              "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-12.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-13.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-14.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-15.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 1440,
+              "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-16.png"
+            },
+            {
+              "type": "image",
+              "width": 4996,
+              "height": 3331,
+              "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-17.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 969,
+              "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-18.png"
+            },
+            {
+              "type": "image",
+              "width": 870,
+              "height": 750,
+              "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-19.jpg"
+            },
+            {
+              "type": "image",
+              "width": 700,
+              "height": 700,
+              "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-20.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2776,
+              "height": 2082,
+              "url": "/content/media/Contractor-Financing-App-at-Rocket-Mortgage-21.jpg"
+            }
+          ],
+          "type": "project",
+          "title": "Contractor Financing App",
+          "company": "Rocket Mortgage"
+        }
+      ]
+    },
+    {
+      "name": "Side Projects",
+      "items": [
+        {
+          "id": "MExu1LMl31LDwQ8ZPm0r",
+          "year": "2024",
+          "heading": "Law firm Directory at caraccidentattorney.com",
+          "url": null,
+          "collaborators": [],
+          "description": "Designed a modern, premium website for a lawyer directory. Created wireframes for eight pages, high-fidelity mockups in Figma, and a design system for a consistent, responsive experience that conveys authority.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 940,
+              "height": 1360,
+              "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-2.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1755,
+              "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-3.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-4.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-5.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-6.png"
+            },
+            {
+              "type": "image",
+              "width": 940,
+              "height": 1360,
+              "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-7.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-8.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 640,
+              "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-9.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-10.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1441,
+              "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-11.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-12.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-13.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-14.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1441,
+              "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-15.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 1440,
+              "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-16.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 1440,
+              "url": "/content/media/Law-firm-Directory-at-caraccidentattorneycom-17.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Law firm Directory",
+          "company": "caraccidentattorney.com"
+        },
+        {
+          "id": "80tIp3vFRNep9yGLe1Aa",
+          "year": "2023",
+          "heading": "Amazon Infographics at Bargoose",
+          "url": null,
+          "collaborators": [],
+          "description": "Designed Amazon infographics to boost product visibility and conversions. Created custom icon illustrations and managed a team of 3D artists to produce engaging visuals.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1755,
+              "url": "/content/media/Amazon-Infographics-at-Bargoose-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Amazon-Infographics-at-Bargoose-2.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Amazon-Infographics-at-Bargoose-3.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Amazon-Infographics-at-Bargoose-4.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 1140,
+              "url": "/content/media/Amazon-Infographics-at-Bargoose-5.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 1140,
+              "url": "/content/media/Amazon-Infographics-at-Bargoose-6.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Amazon-Infographics-at-Bargoose-7.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Amazon Infographics",
+          "company": "Bargoose"
+        },
+        {
+          "id": "bsevWZqcR9kt3phugF8d",
+          "year": "2022",
+          "heading": "Sarita Salsa Brand Logo Design at Sarita Salsa",
+          "url": null,
+          "collaborators": [],
+          "description": "Developed a vibrant logo capturing the essence of Sarita Salsa's bold flavors, effectively communicating energy and culture in a competitive market.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 1440,
+              "url": "/content/media/Sarita-Salsa-Brand-Logo-Design-at-Sarita-Salsa-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Sarita-Salsa-Brand-Logo-Design-at-Sarita-Salsa-2.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1210,
+              "url": "/content/media/Sarita-Salsa-Brand-Logo-Design-at-Sarita-Salsa-3.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1755,
+              "url": "/content/media/Sarita-Salsa-Brand-Logo-Design-at-Sarita-Salsa-4.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 1440,
+              "url": "/content/media/Sarita-Salsa-Brand-Logo-Design-at-Sarita-Salsa-5.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1441,
+              "url": "/content/media/Sarita-Salsa-Brand-Logo-Design-at-Sarita-Salsa-6.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Sarita Salsa Brand Logo Design",
+          "company": "Sarita Salsa"
+        },
+        {
+          "id": "WPlpXN03piXPvpGSI6MU",
+          "year": "2022",
+          "heading": "Australian homeownership fintech at sucasa",
+          "url": null,
+          "collaborators": [],
+          "description": "Implemented Sucasa's new brand across marketing assets, including a PowerPoint template, updated pitch decks, and HTML email templates.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2342,
+              "height": 1443,
+              "url": "/content/media/Australian-homeownership-fintech-at-sucasa-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1755,
+              "url": "/content/media/Australian-homeownership-fintech-at-sucasa-2.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Australian-homeownership-fintech-at-sucasa-3.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Australian-homeownership-fintech-at-sucasa-4.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 4136,
+              "url": "/content/media/Australian-homeownership-fintech-at-sucasa-5.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1450,
+              "url": "/content/media/Australian-homeownership-fintech-at-sucasa-6.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Australian-homeownership-fintech-at-sucasa-7.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Australian-homeownership-fintech-at-sucasa-8.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1440,
+              "url": "/content/media/Australian-homeownership-fintech-at-sucasa-9.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Australian-homeownership-fintech-at-sucasa-10.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 4830,
+              "url": "/content/media/Australian-homeownership-fintech-at-sucasa-11.png"
+            },
+            {
+              "type": "image",
+              "width": 2340,
+              "height": 1600,
+              "url": "/content/media/Australian-homeownership-fintech-at-sucasa-12.png"
+            },
+            {
+              "type": "image",
+              "width": 1140,
+              "height": 640,
+              "url": "/content/media/Australian-homeownership-fintech-at-sucasa-13.png"
+            },
+            {
+              "type": "image",
+              "width": 940,
+              "height": 1360,
+              "url": "/content/media/Australian-homeownership-fintech-at-sucasa-14.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Australian homeownership fintech",
+          "company": "sucasa"
+        }
+      ]
+    }
+  ]
+}
