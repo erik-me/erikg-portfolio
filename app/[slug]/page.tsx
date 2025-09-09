@@ -1,20 +1,39 @@
-import { promises as fs } from 'fs';
-import CaseStudy from './CaseStudy';
+// app/[slug]/page.tsx
+import fs from "node:fs/promises";
+import path from "node:path";
+import CaseStudy from "./CaseStudy";
+
+// Use the Node.js runtime so we can read files at build time
+export const runtime = "nodejs";
+// Force static generation so `output: "export"` works
+export const dynamic = "force-static";
+
+// Tell Next.js which slugs to pre-render during `next export`
+export async function generateStaticParams() {
+  const contentDir = path.join(process.cwd(), "public", "content");
+  const entries = await fs.readdir(contentDir, { withFileTypes: true });
+
+  // Pre-render one page per Markdown file in /public/content/*.md
+  return entries
+    .filter((e) => e.isFile() && e.name.endsWith(".md"))
+    .map((e) => ({ slug: e.name.replace(/\.md$/, "") }));
+}
 
 export default async function CaseStudyPage({
   params,
 }: {
-  params: Promise<{ slug: string }>
+  params: { slug: string };
 }) {
-  const cvFile = await fs.readFile(process.cwd() + '/public/content/profileData.json', 'utf8');
-  const cv = JSON.parse(cvFile);
+  const contentDir = path.join(process.cwd(), "public", "content");
 
-  const slug = (await params).slug;
-  const file = await fs.readFile(process.cwd() + `/public/content/${slug}.md`, 'utf8');
+  const cvJson = await fs.readFile(path.join(contentDir, "profileData.json"), "utf8");
+  const cv = JSON.parse(cvJson);
+
+  const md = await fs.readFile(path.join(contentDir, `${params.slug}.md`), "utf8");
 
   return (
     <div>
-      <CaseStudy cv={cv} markdownText={file} />
+      <CaseStudy cv={cv} markdownText={md} />
     </div>
   );
 }
