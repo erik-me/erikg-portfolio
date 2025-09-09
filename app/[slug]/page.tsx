@@ -3,27 +3,23 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import CaseStudy from "./CaseStudy";
 
-// Use the Node.js runtime so we can read files at build time
 export const runtime = "nodejs";
-// Force static generation so `output: "export"` works
 export const dynamic = "force-static";
 
-// Tell Next.js which slugs to pre-render during `next export`
-export async function generateStaticParams() {
+type Params = { slug: string };
+
+// Tell Next.js which slugs to pre-render for static export
+export async function generateStaticParams(): Promise<Params[]> {
   const contentDir = path.join(process.cwd(), "public", "content");
   const entries = await fs.readdir(contentDir, { withFileTypes: true });
 
-  // Pre-render one page per Markdown file in /public/content/*.md
   return entries
     .filter((e) => e.isFile() && e.name.endsWith(".md"))
     .map((e) => ({ slug: e.name.replace(/\.md$/, "") }));
 }
 
-export default async function CaseStudyPage({
-  params,
-}: {
-  params: { slug: string };
-}) {
+// NOTE: params is a plain object, NOT a Promise
+export default async function Page({ params }: { params: Params }) {
   const contentDir = path.join(process.cwd(), "public", "content");
 
   const cvJson = await fs.readFile(path.join(contentDir, "profileData.json"), "utf8");
@@ -31,9 +27,5 @@ export default async function CaseStudyPage({
 
   const md = await fs.readFile(path.join(contentDir, `${params.slug}.md`), "utf8");
 
-  return (
-    <div>
-      <CaseStudy cv={cv} markdownText={md} />
-    </div>
-  );
+  return <CaseStudy cv={cv} markdownText={md} />;
 }
