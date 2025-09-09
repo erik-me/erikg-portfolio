@@ -2,19 +2,16 @@
 import { ImageResponse } from "next/og";
 import fs from "node:fs/promises";
 import path from "node:path";
-import profileData from "../public/content/profileData.json";
 
-// Make it prerender at build time for output: "export"
 export const runtime = "nodejs";
 export const dynamic = "force-static";
-export const revalidate = 86400; // 24h, must be a literal number
+export const revalidate = 86400; // must be a literal number
 
-export const alt = profileData.general.byline;
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
+export const alt = "Open Graph image";
 
-export async function GET() {
-  // Read the portrait from /public so it’s available at build time
+export default async function Image() {
   const imgPath = path.join(
     process.cwd(),
     "public",
@@ -22,10 +19,8 @@ export async function GET() {
     "media",
     "profilePhoto.jpg"
   );
-  const imageBuffer = await fs.readFile(imgPath);
-
-  // Use a data URL so it works during static generation
-  const dataUrl = `data:image/jpeg;base64,${imageBuffer.toString("base64")}`;
+  const buf = await fs.readFile(imgPath);
+  const dataUrl = `data:image/jpeg;base64,${buf.toString("base64")}`;
 
   return new ImageResponse(
     (
