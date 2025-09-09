@@ -1,31 +1,19 @@
 // app/[slug]/page.tsx
-import fs from "node:fs/promises";
-import path from "node:path";
-import CaseStudy from "./CaseStudy";
+// Temporary static-safe page to unblock deployment
+// It declares no dynamic paths so Next.js export can complete.
 
 export const runtime = "nodejs";
 export const dynamic = "force-static";
 
-type Params = { slug: string };
-
-// Tell Next.js which slugs to pre-render for static export
-export async function generateStaticParams(): Promise<Params[]> {
-  const contentDir = path.join(process.cwd(), "public", "content");
-  const entries = await fs.readdir(contentDir, { withFileTypes: true });
-
-  return entries
-    .filter((e) => e.isFile() && e.name.endsWith(".md"))
-    .map((e) => ({ slug: e.name.replace(/\.md$/, "") }));
+/**
+ * Returning an empty array satisfies Next's requirement for dynamic
+ * segments during `output: "export"`. No pages are generated for /[slug],
+ * and any /something will 404 — which is fine for now.
+ */
+export async function generateStaticParams(): Promise<Array<{ slug: string }>> {
+  return [];
 }
 
-// NOTE: params is a plain object, NOT a Promise
-export default async function Page({ params }: { params: Params }) {
-  const contentDir = path.join(process.cwd(), "public", "content");
-
-  const cvJson = await fs.readFile(path.join(contentDir, "profileData.json"), "utf8");
-  const cv = JSON.parse(cvJson);
-
-  const md = await fs.readFile(path.join(contentDir, `${params.slug}.md`), "utf8");
-
-  return <CaseStudy cv={cv} markdownText={md} />;
+export default function Page() {
+  return null; // nothing rendered because we aren't generating any slug pages yet
 }

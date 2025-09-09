@@ -5,20 +5,13 @@ import path from "node:path";
 
 export const runtime = "nodejs";
 export const dynamic = "force-static";
-export const revalidate = 86400; // must be a literal number
-
+export const revalidate = 86400;
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 export const alt = "Open Graph image";
 
 export default async function Image() {
-  const imgPath = path.join(
-    process.cwd(),
-    "public",
-    "content",
-    "media",
-    "profilePhoto.jpg"
-  );
+  const imgPath = path.join(process.cwd(), "public", "content", "media", "profilePhoto.jpg");
   const buf = await fs.readFile(imgPath);
   const dataUrl = `data:image/jpeg;base64,${buf.toString("base64")}`;
 
