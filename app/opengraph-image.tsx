@@ -7,13 +7,13 @@ import profileData from "../public/content/profileData.json";
 // Make it prerender at build time for output: "export"
 export const runtime = "nodejs";
 export const dynamic = "force-static";
-export const revalidate = 60 * 60 * 24; // 24h
+export const revalidate = 86400; // 24h, must be a literal number
 
 export const alt = profileData.general.byline;
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
-export default async function Image() {
+export async function GET() {
   // Read the portrait from /public so it’s available at build time
   const imgPath = path.join(
     process.cwd(),
@@ -42,6 +42,6 @@ export default async function Image() {
         <img src={dataUrl} height={400} style={{ borderRadius: "50%" }} />
       </div>
     ),
-    { ...size }
+    size
   );
 }
